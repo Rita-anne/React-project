@@ -4,9 +4,15 @@ import "./App.css";
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <h1>Weather App</h1>
-      </header>
+      <div className="container">
+        <header className="App-header">
+          <h1>Weather App</h1>
+          <p>
+            this project was coded by <a href="#">Rita Anne GAKIZA</a> and this{" "}
+            <a href="#">open-sourced on GitHub</a>
+          </p>
+        </header>
+      </div>
     </div>
   );
 }
