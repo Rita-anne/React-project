@@ -7,7 +7,7 @@ function App() {
     <div className="App">
       <div className="container">
         <header className="App-header">
-          <Weather city="Kigali" />
+          <Weather city="Beijing" />
           <footer>
             this project was coded by <a href="#">Rita Anne GAKIZA</a> and this{" "}
             <a href="#">open-sourced on GitHub</a>
