@@ -42,6 +42,10 @@
     line-height: 1;
     top: -34px;
 }
+
+.Weather canvas {
+    margin: 10px auto;
+}
 /* .weather img{
     height: 64px;
     margin-right: 10px;
@@ -57,9 +61,7 @@
 
 
 
-.Weather canvas {
-    margin: 10px auto;
-}
+
 
 
 }   */
