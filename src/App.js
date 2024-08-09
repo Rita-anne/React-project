@@ -10,7 +10,9 @@ function App() {
           <Weather city="Beijing" />
           <footer>
             this project was coded by <a href="#">Rita Anne GAKIZA</a> and this{" "}
-            <a href="#">open-sourced on GitHub</a>
+            <a href="https://github.com/Rita-anne/React-project">
+              open-sourced on GitHub
+            </a>
           </footer>
         </header>
       </div>
